@@ -1,0 +1,12 @@
+{
+    "name": "my-3d-game",
+    "private": true,
+    "workspaces": [
+        "apps/*",
+        "packages/*"
+    ],
+    "devDependencies": {
+        "lerna": "^7.0.0"
+    },
+    "packageManager": "yarn@3.6.4"
+}
